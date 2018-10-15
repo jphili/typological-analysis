@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/typologicalanalysis/" >
+        <file>typologicalanalysis.png</file>
+    </qresource>
+</RCC>
