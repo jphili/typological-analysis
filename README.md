@@ -10,8 +10,7 @@ Roman short (gladii) and long swords (spathae) can be categorized by specific fe
 
 ***
 
-![ba pictures](/img/ba.png?raw=true "Screenshots")
-
+<img src="/img/ba.png" width="800" height="300" title="Screenshots">
 
 #### References
 **Miks 2007:**	Ch. Miks, Studien zur römischen Schwertbewaffnung in der Kaiserzeit. Kölner Studien zur Archäologie der Römischen Provinzen 8 (Rahden 2007).
